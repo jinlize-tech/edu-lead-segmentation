@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-013",
+  "repository_name": "edu-lead-segmentation",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-lead-segmentation-v1.0.0.zip",
+  "sha256": "0221DEDC82D70E4624610F10B49443B708988E52BD4367DBCBD06894B7CBD3EC",
+  "bytes": 4791,
+  "entries": [
+    "edu-lead-segmentation/SKILL.md",
+    "edu-lead-segmentation/references/DOMAIN_GUIDE.md",
+    "edu-lead-segmentation/references/EXAMPLES.md",
+    "edu-lead-segmentation/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:39:26.3758411+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
