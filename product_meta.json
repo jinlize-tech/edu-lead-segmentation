@@ -6,19 +6,37 @@
   "repository_name": "edu-lead-segmentation",
   "product_type": "Skill",
   "category": "02 销售转化中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-lead-segmentation-v1.0.0.zip",
+  "baseline_commit": "bce39108d4ee44c2ecab9607be8c0907a36c2cf9",
+  "package_path": "dist/edu-lead-segmentation-v1.0.1.zip",
+  "previous_package_path": "dist/edu-lead-segmentation-v1.0.0.zip",
+  "previous_package_sha256": "0221DEDC82D70E4624610F10B49443B708988E52BD4367DBCBD06894B7CBD3EC",
   "calculator": false,
   "core_input": "线索字段、来源、最近互动、意向等级标准和当前跟进状态",
   "main_output": "分层标签、优先级、建议动作、分派建议和数据质量缺口",
+  "main_output_fields": [
+    "分层标签",
+    "优先级",
+    "建议动作",
+    "分派建议和数据质量缺口"
+  ],
   "package_entries": [
     "edu-lead-segmentation/SKILL.md",
     "edu-lead-segmentation/references/DOMAIN_GUIDE.md",
     "edu-lead-segmentation/references/EXAMPLES.md",
-    "edu-lead-segmentation/templates/OUTPUT_TEMPLATE.md"
+    "edu-lead-segmentation/templates/OUTPUT_TEMPLATE.md",
+    "edu-lead-segmentation/README.md",
+    "edu-lead-segmentation/USAGE.md",
+    "edu-lead-segmentation/LICENSE",
+    "edu-lead-segmentation/THIRD_PARTY_NOTICES.md",
+    "edu-lead-segmentation/scripts/validate_input.js"
   ]
 }
